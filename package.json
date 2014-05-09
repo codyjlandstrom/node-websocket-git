@@ -1,0 +1,11 @@
+{
+    "name": "SocketMessagingTest",
+    "version": "0.0.0",
+    "description": "Socket Messaging Test",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "DBOX"
+}
